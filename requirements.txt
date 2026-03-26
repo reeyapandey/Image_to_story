@@ -1,0 +1,9 @@
+transformers
+torch
+langchain
+openai
+python-dotenv
+requests
+langchain-openai
+Pillow>=10.0.0
+streamlit
