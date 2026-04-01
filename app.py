@@ -216,5 +216,5 @@ def main():
         st.audio(audio_file)
 
 
-if __name__ == "__main__":git rm -r --cached
+if __name__ == "__main__":
 main()
