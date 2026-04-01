@@ -215,6 +215,5 @@ def main():
         st.markdown("### 🔊 Listen to your story")
         st.audio(audio_file)
 
-
 if __name__ == "__main__":
 main()
